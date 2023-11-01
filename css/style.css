@@ -37,4 +37,17 @@
     margin-top: 9vh;
 } 
 
- 
+ .Card3{ 
+    background-color: rgb(206, 204, 204);
+    width: 80%;
+    height: 70vh;
+    margin-left: 20vh;
+    margin-top: 10vh;
+    border-radius: 2vh; 
+
+ } 
+
+ .Card3:hover{ 
+    transform: scale(1.2) ; 
+    
+ }
