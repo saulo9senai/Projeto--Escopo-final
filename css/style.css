@@ -36,7 +36,22 @@
     margin-left: 10vh; 
     margin-top: 9vh;
 } 
+nav{
+    background-color: black;
+    width: 100%;
+    height: 9vh;
+}
+nav ul li{
+    float: left;
+    padding: 2vh;
+    list-style-type: none;
+    margin-left: 48vh;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 3vh;
 
+
+}
  .Card3{ 
     background-color: rgb(206, 204, 204);
     width: 80%;
@@ -46,8 +61,21 @@
     border-radius: 2vh; 
 
  } 
-
  .Card3:hover{ 
     transform: scale(1.2) ; 
     
  }
+.Nav1{
+    background-color: black;
+    width: 100%;
+    height: 9vh;
+}
+.Nav ul li{
+    float: left;
+    padding: 2vh;
+    list-style-type: none;
+    margin-left: 48vh;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 3vh;
+}
