@@ -13,29 +13,16 @@
 
 }
 .Card{
-    background-color: #ebeaea;
-    width: 80%;
-    height: 290vh;
+    background-color: #f9f9f9;
+    width: 60%;
+    height: 22vh;
     margin-left: 20vh;
     margin-top: 10vh;
     border-radius: 2vh; 
 
     
 }
-.Card2{
-    
-    background-color: rgb(206, 100, 100);
-    width: 40%;
-    height: 60vh;
-    margin-left:25vh;
-    margin-top: -65vh;
-    border-radius: 2vh;
-    
-}
-.Card2 img{
-    margin-left: 10vh; 
-    margin-top: 9vh;
-} 
+
 nav{
     background-color: #046021;
     width: 100%;
