@@ -4,31 +4,21 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular-route.js"></script>
     <link href="./css/style.css" rel="stylesheet">
     <title>Document</title>
 </head>
-<body>
+<body ng-app="blog">
     <div class="navegacao">
         <ul>
             <li>Home</li>
             <li><a href="index4.html">Artigos</a></li>
             <li><a href="index2.html">Esporte</a></li>
-
-        
-
-        </div>
-    <div class="Card">
-    </div>
-    
-    <div class="NavF">
-        <ul>
-            <li>GlrboNoticias</li>
         </ul>
-    </div>
-    <div class="Card4">
+        </div>
 
-    </div>
-    
+<ng-view></ng-view>
 
+<script src="./js/main.js"></script>
 </body>
 </html>
