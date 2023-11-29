@@ -9,3 +9,4 @@ fetch("/data/noticias.json")
     });
 }) 
 
+
